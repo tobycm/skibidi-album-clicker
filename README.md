@@ -6,6 +6,8 @@ alllllll iiiiii wanttttt forr christmassssssssssss, is a tiny 3d printed with so
 
 ![pcb](assets/pcb.png)
 
+![schematic](assets/schematic.png)
+
 ![front 3d](assets/front_3d.png)
 
 ![back 3d](assets/back_3d.png)
