@@ -16,25 +16,23 @@ this is a perfect gift for your loved ones. featuring a seeed xiao rp2040 with 2
 
 ## Bill of Materials
 
-| Qty | Value |
-| :--- | :--- |
-| 4 | 4.7u |
-| 1 | LED |
-| 1 | D_Schottky |
-| 1 | SPI LCD |
-| 8 | MountingHole |
-| 1 | Conn_01x02_Socket |
-| 1 | SolderJumper_2_Bridged |
-| 1 | SolderJumper_2_Open |
-| 1 | SK6812MINI-E |
-| 1 | Q_PMOS_GSD |
-| 1 | Q_NMOS_GSD |
-| 2 | 2k |
-| 3 | 100k |
-| 1 | RotaryEncoder_Switch |
-| 1 | XIAO-RP2040-DIP |
-| 1 | MCP73831-2-OT |
-| Digikey cart: | $46.00 |
-| JLCPCB: | $4.70 |
-| Aliexpress: | $17.00 |
-| **Total:** | **$67.70** |
+| Description | Quantity | Part # | Unit Price | Extended Price USD |
+| --- | --- | --- | --- | --- |
+| 20V 5A 52M@4.5V,2.4A 1.31W 1V 1 | 10 | FDN304P | 0.099 | 0.99 |
+| IC BATT CNTL LI-ION 1CEL SOT23-5 | 5 | MCP73832T-2ACI/OT | 0.76 | 3.80 |
+| 20V 3.77A 750MW 33MR@4.5V,5A 850 | 10 | SI2312A | 0.109 | 1.09 |
+| RES 2K OHM 1% 1/16W 0402 | 25 | RMCF0402FT2K00 | 0.0048 | 0.12 |
+| RES 100K OHM 1% 1/16W 0402 | 50 | RC0402FR-07100KL | 0.0032 | 0.16 |
+| RES 470 OHM 1% 1/16W 0402 | 50 | RC0402FR-07470RL | 0.003 | 0.15 |
+| ENCODER INCRE QUAD HORIZN PC PIN | 5 | PEC12R-4217F-S0024 | 1.478 | 7.39 |
+| ENCODER INCRE QUAD HORIZN PC PIN | 5 | PEC12R-4220F-S0024 | 1.478 | 7.39 |
+| XIAO RP2040 | 1 | 102010428 | 4.68 | 4.68 |
+| LED AMBER CLEAR 0603 SMD | 10 | 150060AS75000 | 0.15 | 1.50 |
+| 60V 115MA 7.5@10V,500MA 225MW N | 10 | 2N7002 | 0.054 | 0.54 |
+| DIODE SCHOTTKY 20V 1A SOD123 | 10 | MBRX120LF-TP | 0.236 | 2.36 |
+| CAP CER 4.7UF 10V X5R 0603 | 50 | CL10A475KP8NNNC | 0.006 | 0.30 |
+| Digikey | 1 | Shipping | 20 | 20.00 |
+| Neopixel | 5 | SK6812MINI-E |  |  |
+| PCB | 1 | JLCPCB PCB | 4.7 | 4.70 |
+| Aliexpress |  | LCDs | 17 | 17.00 |
+| **Total** |  |  |  | **72.17** |
