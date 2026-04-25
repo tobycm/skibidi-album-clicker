@@ -1,1 +1,30 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10u,C_0603_1608Metric,212.0,-104.75,270.0,bottom
+C3,10u,C_0603_1608Metric,189.5,-62.5,270.0,bottom
+C4,100n,C_0603_1608Metric,194.5,-72.75,180.0,bottom
+C5,10u,C_0603_1608Metric,212.975,-81.75,0.0,bottom
+C6,10u,C_0603_1608Metric,211.0,-74.25,0.0,bottom
+C7,10u,C_0603_1608Metric,210.75,-84.25,90.0,bottom
+C8,10u,C_0603_1608Metric,209.0,-84.25,90.0,bottom
+D1,LED,LED_0603_1608Metric,209.0,-81.0375,270.0,bottom
+DS1,SPI LCD,PinSocket_1x07_P2.54mm_Horizontal,199.97,-63.4,270.0,bottom
+H1,MountingHole,MountingHole_3.2mm_M3_Pad,195.0,-102.0,0.0,top
+H2,MountingHole,MountingHole_3.2mm_M3_Pad,189.0,-69.0,0.0,top
+J1,Conn_01x02_Socket,JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,210.75,-71.0,180.0,bottom
+J2,USB_C_Receptacle_PowerOnly_6P,TYPE-C-SMD_TYPE-C-6P-073,194.0,-117.125,0.0,bottom
+R1,2.49k,R_0603_1608Metric,211.25,-102.0,0.0,bottom
+R10,5.1k,R_0603_1608Metric,193.0,-112.0,90.0,bottom
+R2,2.49k,R_0603_1608Metric,211.75,-90.25,0.0,bottom
+R3,2.49k,R_0603_1608Metric,187.0,-100.5,270.0,bottom
+R4,2.49k,R_0603_1608Metric,187.0,-111.5,270.0,bottom
+R5,2.49k,R_0603_1608Metric,194.5,-69.5,0.0,bottom
+R6,2.49k,R_0603_1608Metric,194.5,-71.105,180.0,bottom
+R7,1k,R_0603_1608Metric,209.0,-77.7875,90.0,bottom
+R8,2.49k,R_0603_1608Metric,212.5,-84.25,270.0,bottom
+R9,5.1k,R_0603_1608Metric,195.0,-112.0,90.0,bottom
+SW1,RotaryEncoder_Switch,RotaryEncoder_Bourns_Vertical_PEC12R-3x17F-Sxxxx,205.0,-110.0,-90.0,top
+SW2,K2-1102AQ-H4CW-01,SW-TH_K2-1102BQ-G4CW-01,188.35,-106.0,-90.0,top
+U1,PY25Q128HA-SUH-IR,SOIC-8_5.3x5.3mm_P1.27mm,210.845,-96.0,90.0,bottom
+U2,RP2040-ZERO,COMM-SMD_RP2040-ZERO,197.0,-85.8,180.0,bottom
+U3,TP4057,TSOT-23-6,212.25,-78.75,270.0,bottom
+U4,ME6211C33M5,SOT-23-5,210.5,-87.5,0.0,bottom
